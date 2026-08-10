@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.venv/
+vendor/
+data/
+*.log
+*.tsbuildinfo
+.env
+.vite/
